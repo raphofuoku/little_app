@@ -70,12 +70,12 @@ Before running this project, make sure you have the following installed:
 
 ## 📱 App Screenshots
 
-![App Logo](../assets/Logo.png)
+![App Logo](./assets/Logo.png)
 
 ## 📱 App Screenshots
 
-![Wireframe](../assets/screenshot/wireframe.png)
-![Home Screen Design](../assets/screenshot/design.png)
+![Wireframe](./assets/screenshot/wireframe.png)
+![Home Screen Design](./assets/screenshot/design.png)
 
 ## 🎯 Key Learning Outcomes
 
